@@ -17,3 +17,14 @@
     background-color: bisque;
     height: 400px;
 }
+
+.aboutme, .contactme, .notfound {
+    text-align: center;
+}
+
+.returnlink {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
