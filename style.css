@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+}
+
+.homepage, .contact, .about {
+    margin: 20px;
+}
+
+.homepage {
+    flex: 1;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    height: 400px;
+}
